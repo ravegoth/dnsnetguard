@@ -1,8 +1,3 @@
-# domains.py
-
-# This file contains predefined lists of domain patterns categorized by their typical use.
-# These patterns are used by NetGuard to identify and classify network traffic.
-
 DOMAIN_PATTERNS = {
     "WHITELIST": [
         # Essential OS/CDN/Services to prevent breaking basic functionality.
